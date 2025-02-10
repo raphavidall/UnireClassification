@@ -1,0 +1,601 @@
+red,green,blue,classification
+241,208,220,Transparente
+234,250,209,Transparente
+247,235,238,Transparente
+223,248,224,Transparente
+216,226,207,Transparente
+213,229,209,Transparente
+226,231,220,Transparente
+214,230,208,Transparente
+252,214,218,Transparente
+235,211,230,Transparente
+245,230,215,Transparente
+232,212,248,Transparente
+201,255,221,Transparente
+220,234,212,Transparente
+207,212,249,Transparente
+222,222,239,Transparente
+211,234,210,Transparente
+238,203,246,Transparente
+206,211,204,Transparente
+254,229,217,Transparente
+214,203,228,Transparente
+242,249,252,Transparente
+201,204,252,Transparente
+237,209,205,Transparente
+253,236,236,Transparente
+241,241,223,Transparente
+201,214,226,Transparente
+253,205,240,Transparente
+234,241,230,Transparente
+226,219,221,Transparente
+253,210,227,Transparente
+211,203,249,Transparente
+238,252,201,Transparente
+243,248,235,Transparente
+254,220,225,Transparente
+247,203,203,Transparente
+208,253,220,Transparente
+234,246,249,Transparente
+200,231,255,Transparente
+229,206,204,Transparente
+206,227,207,Transparente
+236,254,213,Transparente
+224,249,227,Transparente
+212,237,250,Transparente
+252,237,242,Transparente
+203,223,240,Transparente
+238,213,234,Transparente
+238,237,246,Transparente
+244,212,236,Transparente
+254,243,237,Transparente
+201,247,246,Transparente
+224,255,233,Transparente
+210,252,254,Transparente
+235,248,216,Transparente
+206,237,228,Transparente
+218,211,247,Transparente
+230,204,219,Transparente
+253,254,210,Transparente
+215,253,242,Transparente
+201,231,251,Transparente
+250,205,210,Transparente
+225,251,205,Transparente
+231,251,237,Transparente
+235,246,207,Transparente
+234,207,205,Transparente
+217,215,239,Transparente
+221,254,214,Transparente
+226,244,220,Transparente
+210,222,209,Transparente
+248,243,233,Transparente
+248,244,214,Transparente
+214,247,242,Transparente
+243,238,250,Transparente
+245,215,246,Transparente
+202,220,231,Transparente
+246,214,251,Transparente
+215,245,222,Transparente
+242,203,237,Transparente
+226,250,254,Transparente
+250,233,222,Transparente
+204,243,208,Transparente
+252,239,222,Transparente
+252,223,216,Transparente
+216,207,217,Transparente
+240,234,201,Transparente
+232,232,217,Transparente
+220,253,212,Transparente
+245,221,245,Transparente
+204,206,237,Transparente
+249,249,204,Transparente
+228,222,220,Transparente
+221,243,251,Transparente
+255,228,204,Transparente
+204,210,200,Transparente
+206,233,208,Transparente
+232,251,200,Transparente
+224,254,248,Transparente
+253,238,215,Transparente
+237,210,226,Transparente
+215,245,225,Transparente
+249,250,188,Hidratado
+241,235,182,Hidratado
+203,213,184,Hidratado
+201,211,148,Hidratado
+255,248,179,Hidratado
+221,208,108,Hidratado
+213,226,161,Hidratado
+192,245,187,Hidratado
+179,239,125,Hidratado
+206,235,199,Hidratado
+227,233,169,Hidratado
+229,216,165,Hidratado
+161,211,180,Hidratado
+150,200,192,Hidratado
+224,206,128,Hidratado
+223,224,121,Hidratado
+246,234,147,Hidratado
+200,228,133,Hidratado
+156,214,148,Hidratado
+166,254,163,Hidratado
+185,244,145,Hidratado
+193,224,110,Hidratado
+250,222,142,Hidratado
+239,224,188,Hidratado
+227,200,140,Hidratado
+159,201,200,Hidratado
+242,244,130,Hidratado
+168,217,127,Hidratado
+210,242,178,Hidratado
+233,240,172,Hidratado
+236,205,166,Hidratado
+164,244,119,Hidratado
+252,218,154,Hidratado
+242,248,115,Hidratado
+254,236,145,Hidratado
+183,255,187,Hidratado
+177,249,129,Hidratado
+172,238,100,Hidratado
+239,236,159,Hidratado
+231,237,146,Hidratado
+235,239,168,Hidratado
+237,224,186,Hidratado
+156,248,118,Hidratado
+157,220,148,Hidratado
+193,232,200,Hidratado
+181,253,151,Hidratado
+191,250,137,Hidratado
+243,237,129,Hidratado
+181,208,125,Hidratado
+250,252,170,Hidratado
+236,227,101,Hidratado
+186,250,121,Hidratado
+166,236,152,Hidratado
+198,214,133,Hidratado
+220,255,121,Hidratado
+187,234,141,Hidratado
+188,255,104,Hidratado
+154,252,178,Hidratado
+197,253,165,Hidratado
+159,202,161,Hidratado
+240,205,143,Hidratado
+246,251,131,Hidratado
+153,238,154,Hidratado
+247,211,171,Hidratado
+233,214,130,Hidratado
+252,215,153,Hidratado
+184,246,145,Hidratado
+212,225,154,Hidratado
+178,202,160,Hidratado
+204,251,182,Hidratado
+229,241,113,Hidratado
+175,207,115,Hidratado
+251,250,189,Hidratado
+187,244,172,Hidratado
+184,203,134,Hidratado
+247,218,113,Hidratado
+191,228,156,Hidratado
+159,235,167,Hidratado
+207,220,158,Hidratado
+251,210,117,Hidratado
+185,210,181,Hidratado
+251,212,178,Hidratado
+207,255,167,Hidratado
+226,226,102,Hidratado
+175,214,198,Hidratado
+150,215,191,Hidratado
+177,208,190,Hidratado
+152,228,185,Hidratado
+163,242,106,Hidratado
+157,219,144,Hidratado
+223,217,167,Hidratado
+235,205,180,Hidratado
+209,249,160,Hidratado
+171,252,100,Hidratado
+196,246,187,Hidratado
+242,211,126,Hidratado
+219,241,167,Hidratado
+225,214,135,Hidratado
+178,231,142,Hidratado
+229,247,195,Hidratado
+220,157,54,Moderado
+248,169,74,Moderado
+200,154,63,Moderado
+223,159,90,Moderado
+237,161,88,Moderado
+231,151,95,Moderado
+237,155,55,Moderado
+247,154,67,Moderado
+207,151,60,Moderado
+236,188,70,Moderado
+254,176,63,Moderado
+219,193,92,Moderado
+204,163,75,Moderado
+206,162,66,Moderado
+219,196,69,Moderado
+228,160,74,Moderado
+233,154,89,Moderado
+214,179,94,Moderado
+241,170,95,Moderado
+206,150,87,Moderado
+230,156,94,Moderado
+225,169,94,Moderado
+253,163,89,Moderado
+207,198,84,Moderado
+210,182,84,Moderado
+247,155,75,Moderado
+246,191,57,Moderado
+251,170,96,Moderado
+225,162,89,Moderado
+202,177,74,Moderado
+243,165,74,Moderado
+222,181,58,Moderado
+227,178,80,Moderado
+240,192,69,Moderado
+255,171,61,Moderado
+214,157,56,Moderado
+202,159,92,Moderado
+236,160,50,Moderado
+239,189,69,Moderado
+212,166,78,Moderado
+229,187,86,Moderado
+216,191,92,Moderado
+223,164,82,Moderado
+254,164,70,Moderado
+252,159,69,Moderado
+200,180,97,Moderado
+224,164,70,Moderado
+230,193,88,Moderado
+249,152,55,Moderado
+200,166,91,Moderado
+254,153,89,Moderado
+251,194,80,Moderado
+222,150,79,Moderado
+201,169,68,Moderado
+210,167,55,Moderado
+213,179,94,Moderado
+221,158,83,Moderado
+227,170,89,Moderado
+246,186,56,Moderado
+206,193,85,Moderado
+217,185,54,Moderado
+236,151,97,Moderado
+202,157,66,Moderado
+205,162,82,Moderado
+242,165,57,Moderado
+206,200,73,Moderado
+233,155,86,Moderado
+204,198,64,Moderado
+210,159,92,Moderado
+226,198,87,Moderado
+219,167,92,Moderado
+228,190,87,Moderado
+240,177,98,Moderado
+243,159,58,Moderado
+217,197,71,Moderado
+203,153,71,Moderado
+200,160,79,Moderado
+234,175,96,Moderado
+214,169,63,Moderado
+218,171,59,Moderado
+203,155,57,Moderado
+223,177,50,Moderado
+206,175,90,Moderado
+232,180,66,Moderado
+253,167,91,Moderado
+243,168,98,Moderado
+246,153,51,Moderado
+247,169,90,Moderado
+217,162,55,Moderado
+202,165,85,Moderado
+247,150,62,Moderado
+211,188,70,Moderado
+235,150,86,Moderado
+231,177,50,Moderado
+245,159,61,Moderado
+225,198,79,Moderado
+220,155,65,Moderado
+214,198,50,Moderado
+235,165,51,Moderado
+254,200,53,Moderado
+228,117,5,Desidratado
+230,101,14,Desidratado
+225,134,1,Desidratado
+238,149,10,Desidratado
+247,102,27,Desidratado
+220,116,46,Desidratado
+201,130,33,Desidratado
+254,135,22,Desidratado
+202,122,21,Desidratado
+229,144,35,Desidratado
+227,142,40,Desidratado
+245,101,8,Desidratado
+255,105,17,Desidratado
+252,133,28,Desidratado
+203,107,48,Desidratado
+248,149,6,Desidratado
+239,100,3,Desidratado
+240,121,47,Desidratado
+245,107,4,Desidratado
+242,140,1,Desidratado
+232,101,38,Desidratado
+208,112,41,Desidratado
+224,128,40,Desidratado
+208,117,3,Desidratado
+230,143,47,Desidratado
+240,143,17,Desidratado
+222,126,4,Desidratado
+247,121,3,Desidratado
+216,135,49,Desidratado
+212,112,12,Desidratado
+240,118,42,Desidratado
+212,141,36,Desidratado
+213,106,38,Desidratado
+250,108,25,Desidratado
+217,140,3,Desidratado
+249,138,9,Desidratado
+204,134,12,Desidratado
+211,142,28,Desidratado
+209,142,50,Desidratado
+234,135,47,Desidratado
+255,123,43,Desidratado
+205,107,38,Desidratado
+237,143,43,Desidratado
+202,112,27,Desidratado
+204,117,2,Desidratado
+236,130,12,Desidratado
+228,130,25,Desidratado
+216,129,40,Desidratado
+245,144,12,Desidratado
+255,108,8,Desidratado
+239,124,9,Desidratado
+225,145,18,Desidratado
+224,148,47,Desidratado
+206,105,30,Desidratado
+215,130,43,Desidratado
+249,126,37,Desidratado
+206,110,12,Desidratado
+220,107,46,Desidratado
+217,112,9,Desidratado
+230,147,21,Desidratado
+224,140,3,Desidratado
+214,150,46,Desidratado
+232,137,30,Desidratado
+200,120,38,Desidratado
+234,145,6,Desidratado
+232,121,23,Desidratado
+203,113,27,Desidratado
+217,108,9,Desidratado
+255,130,42,Desidratado
+207,133,18,Desidratado
+215,128,46,Desidratado
+201,116,15,Desidratado
+239,145,28,Desidratado
+208,139,30,Desidratado
+253,122,48,Desidratado
+202,116,44,Desidratado
+245,137,14,Desidratado
+253,103,29,Desidratado
+253,135,35,Desidratado
+239,111,2,Desidratado
+221,106,42,Desidratado
+232,140,38,Desidratado
+201,101,34,Desidratado
+224,112,20,Desidratado
+253,108,17,Desidratado
+252,101,33,Desidratado
+204,149,42,Desidratado
+224,149,7,Desidratado
+215,149,1,Desidratado
+236,119,38,Desidratado
+242,146,29,Desidratado
+210,146,20,Desidratado
+218,149,39,Desidratado
+205,105,46,Desidratado
+205,101,27,Desidratado
+251,133,33,Desidratado
+252,124,24,Desidratado
+214,140,14,Desidratado
+208,126,10,Desidratado
+223,124,29,Desidratado
+168,89,12,Muito desidratado
+189,95,16,Muito desidratado
+197,61,22,Muito desidratado
+196,52,48,Muito desidratado
+197,95,32,Muito desidratado
+165,98,15,Muito desidratado
+182,84,3,Muito desidratado
+153,68,26,Muito desidratado
+171,67,33,Muito desidratado
+172,85,7,Muito desidratado
+171,57,11,Muito desidratado
+169,94,2,Muito desidratado
+168,59,10,Muito desidratado
+176,96,48,Muito desidratado
+181,76,4,Muito desidratado
+163,80,21,Muito desidratado
+160,51,34,Muito desidratado
+180,99,42,Muito desidratado
+165,90,30,Muito desidratado
+189,83,15,Muito desidratado
+151,76,49,Muito desidratado
+163,51,11,Muito desidratado
+157,89,5,Muito desidratado
+162,71,21,Muito desidratado
+182,51,39,Muito desidratado
+165,76,25,Muito desidratado
+193,71,10,Muito desidratado
+188,65,31,Muito desidratado
+170,85,7,Muito desidratado
+185,94,30,Muito desidratado
+162,78,41,Muito desidratado
+152,80,4,Muito desidratado
+150,100,43,Muito desidratado
+165,66,21,Muito desidratado
+161,77,10,Muito desidratado
+161,100,43,Muito desidratado
+160,58,1,Muito desidratado
+195,74,17,Muito desidratado
+156,55,13,Muito desidratado
+184,94,45,Muito desidratado
+151,63,34,Muito desidratado
+178,88,14,Muito desidratado
+186,85,8,Muito desidratado
+185,74,17,Muito desidratado
+174,85,3,Muito desidratado
+181,62,17,Muito desidratado
+154,54,16,Muito desidratado
+155,81,45,Muito desidratado
+165,72,50,Muito desidratado
+167,78,30,Muito desidratado
+156,75,48,Muito desidratado
+154,91,32,Muito desidratado
+153,69,5,Muito desidratado
+193,58,19,Muito desidratado
+163,79,46,Muito desidratado
+168,67,28,Muito desidratado
+200,52,17,Muito desidratado
+199,67,48,Muito desidratado
+176,85,18,Muito desidratado
+173,68,23,Muito desidratado
+150,92,34,Muito desidratado
+192,86,2,Muito desidratado
+171,53,38,Muito desidratado
+181,54,47,Muito desidratado
+185,89,2,Muito desidratado
+191,78,38,Muito desidratado
+154,74,27,Muito desidratado
+150,74,47,Muito desidratado
+181,83,49,Muito desidratado
+173,58,1,Muito desidratado
+194,81,17,Muito desidratado
+190,87,47,Muito desidratado
+189,53,47,Muito desidratado
+193,66,11,Muito desidratado
+189,82,15,Muito desidratado
+197,95,16,Muito desidratado
+187,78,28,Muito desidratado
+174,90,41,Muito desidratado
+162,73,37,Muito desidratado
+181,84,8,Muito desidratado
+162,78,41,Muito desidratado
+161,92,27,Muito desidratado
+179,83,2,Muito desidratado
+168,81,12,Muito desidratado
+164,96,50,Muito desidratado
+174,85,40,Muito desidratado
+179,64,47,Muito desidratado
+179,67,33,Muito desidratado
+178,70,30,Muito desidratado
+169,64,31,Muito desidratado
+178,69,50,Muito desidratado
+174,81,5,Muito desidratado
+174,53,15,Muito desidratado
+194,78,29,Muito desidratado
+174,63,47,Muito desidratado
+155,94,16,Muito desidratado
+169,100,13,Muito desidratado
+182,63,10,Muito desidratado
+195,80,14,Muito desidratado
+168,53,4,Muito desidratado
+112,11,30,Anormal
+139,48,36,Anormal
+112,9,29,Anormal
+111,14,43,Anormal
+131,27,18,Anormal
+125,50,1,Anormal
+120,10,36,Anormal
+121,3,21,Anormal
+122,5,13,Anormal
+105,1,43,Anormal
+144,44,33,Anormal
+119,6,46,Anormal
+132,47,42,Anormal
+114,34,25,Anormal
+138,48,41,Anormal
+115,49,22,Anormal
+128,6,31,Anormal
+137,4,9,Anormal
+138,40,20,Anormal
+107,35,48,Anormal
+125,29,48,Anormal
+141,18,45,Anormal
+123,13,3,Anormal
+143,31,44,Anormal
+113,11,46,Anormal
+107,7,1,Anormal
+139,40,41,Anormal
+103,45,44,Anormal
+112,41,12,Anormal
+123,35,12,Anormal
+119,22,23,Anormal
+148,19,25,Anormal
+140,1,14,Anormal
+126,20,49,Anormal
+147,7,27,Anormal
+121,29,29,Anormal
+134,31,18,Anormal
+104,32,27,Anormal
+134,1,49,Anormal
+108,31,50,Anormal
+110,8,16,Anormal
+130,20,11,Anormal
+129,49,16,Anormal
+123,2,42,Anormal
+144,30,35,Anormal
+107,22,37,Anormal
+128,39,10,Anormal
+124,32,38,Anormal
+121,15,19,Anormal
+108,25,35,Anormal
+102,5,34,Anormal
+133,4,44,Anormal
+107,10,21,Anormal
+132,21,33,Anormal
+149,40,40,Anormal
+112,15,15,Anormal
+126,15,33,Anormal
+115,9,43,Anormal
+150,1,44,Anormal
+120,25,33,Anormal
+110,47,42,Anormal
+138,9,2,Anormal
+137,46,32,Anormal
+141,12,6,Anormal
+122,16,16,Anormal
+148,6,4,Anormal
+139,5,6,Anormal
+142,41,41,Anormal
+123,43,24,Anormal
+128,40,39,Anormal
+103,31,3,Anormal
+104,26,47,Anormal
+118,48,36,Anormal
+114,49,47,Anormal
+113,0,40,Anormal
+129,45,32,Anormal
+124,33,7,Anormal
+126,40,46,Anormal
+145,6,41,Anormal
+119,5,9,Anormal
+122,14,24,Anormal
+108,44,40,Anormal
+110,29,34,Anormal
+118,0,25,Anormal
+150,25,34,Anormal
+136,18,40,Anormal
+139,31,42,Anormal
+136,49,31,Anormal
+107,34,2,Anormal
+109,9,18,Anormal
+103,47,44,Anormal
+145,49,5,Anormal
+103,30,9,Anormal
+125,2,13,Anormal
+142,4,31,Anormal
+105,31,48,Anormal
+128,20,16,Anormal
+149,16,40,Anormal
+118,6,9,Anormal
+143,39,10,Anormal
